@@ -1,0 +1,2 @@
+insert into Project(nr,naam,opdrachtgever,geplandeStart,geplandEind, beschrijving)
+values(100, 'OnderhoudWestMaasEnWaalSERC', 'SERC','2014-01-01', '2017-01-01','Het vullen en onderhouden van de website voor de gemeente');
